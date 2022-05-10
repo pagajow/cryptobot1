@@ -1,1 +1,10 @@
 api_keys/
+
+# Environments
+.env
+.venv
+venv/
+
+# IDE
+.idea/
+.vscode/
