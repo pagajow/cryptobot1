@@ -4,6 +4,7 @@ api_keys/
 .env
 .venv
 venv/
+env/
 
 # IDE
 .idea/
